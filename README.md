@@ -30,44 +30,34 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 
 ## Environment Variables
 
-To run this project, you will need to add the following environment variables to your .env file
+To run this project, you will need to add the following environment variables to your file
 
 `Windows`
-
-`Microsoft Power BI`
-
-`Microsoft SQL Server`
-
-`Python`
-
 
 ## Tech Stack
 
 **Client:** Power BI, SQL server
 
-**Server:** Jupyter Notebook
-
-
 ## Installation
-* First Microsoft Power BI install on your pc/laptop 
-* Install Microsoft SQL server
-* Install Microsoft Excel
+* 
+* 
+* 
 
-Install Pandas
+Install BI tools
 ```bash
-  pip install pandas 
+  First Microsoft Power BI install on your pc/laptop 
 ```
-Install Numpy
+Install SQL
 ```bash
-  pip install numpy 
+  Install Microsoft SQL server
 ```
-Install Matplotlib
+Install Office
 ```bash
-  pip install matplotlib 
+ Install Microsoft Excel
 ```
-Install Seaborn
+Install Programming Language
 ```bash
-  pip install seaborn 
+  Install Python 
 ```
     
 ## Share Screen
